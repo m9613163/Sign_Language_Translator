@@ -7,3 +7,15 @@
 
 ![office](https://user-images.githubusercontent.com/71717840/203706350-6a36aee0-e384-4954-b33e-d4b41c641e60.gif) <br>
 사무실 <br><br>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/71717840/203706485-8eb50c0c-3af6-463a-b2e8-47b4503bc1df.gif) <br>
+융소과 <br><br>
+
+![Uploading ezgif.com-gif-maker (1).gif…]()<br>
+효행관 <br><br>
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71717840/203706739-5c800c20-0286-43e8-b8c5-d066f6c61b61.gif)<br>
+정보 <br><br>
+
+![Uploading ezgif.com-gif-maker (2).gif…]()<br>
+위치<br><br>
