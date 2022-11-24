@@ -1,5 +1,5 @@
 # Sign_Language_Translator
-경민대학교 캡스톤디자인 섬섬옥수팀 <br><br>
+<h1>경민대학교 캡스톤디자인 섬섬옥수팀</h1> <br><br>
 
 ![idle](https://user-images.githubusercontent.com/71717840/203706121-ecd93ab8-c792-4407-bf32-dba22e037d88.gif) <br>
 가만히 있는 모션 <br><br>
@@ -11,11 +11,12 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/71717840/203706485-8eb50c0c-3af6-463a-b2e8-47b4503bc1df.gif) <br>
 융소과 <br><br>
 
-![Uploading ezgif.com-gif-maker (1).gif…]()<br>
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71717840/203706939-3fe5b284-88a3-4551-87a9-40733198957d.gif)
+<br>
 효행관 <br><br>
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71717840/203706739-5c800c20-0286-43e8-b8c5-d066f6c61b61.gif)<br>
 정보 <br><br>
 
-![Uploading ezgif.com-gif-maker (2).gif…]()<br>
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/71717840/203706966-0020ccf2-c351-4375-992c-bb3321b6f75f.gif)<br>
 위치<br><br>
